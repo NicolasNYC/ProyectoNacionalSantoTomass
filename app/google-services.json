@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "178984406877",
+    "project_id": "proyectonacionalsantotomas",
+    "storage_bucket": "proyectonacionalsantotomas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:178984406877:android:5a16b563175efea0fc62b4",
+        "android_client_info": {
+          "package_name": "cl.ProyectoNacionalSantoTomas.proyectonacionalsantotomas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ZLFT8_Tcf4o_-jUCs1dc1lie94EM3Uc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
